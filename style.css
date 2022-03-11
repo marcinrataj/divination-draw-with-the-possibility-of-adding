@@ -1,0 +1,21 @@
+html{
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+div:nth-last-child(1){
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+}
+button{
+    font-size: 30px;
+}
+input{
+    width: 200px;
+    height: 20px;
+    margin-bottom: 25px;
+}
